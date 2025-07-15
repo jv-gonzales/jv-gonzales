@@ -40,7 +40,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
       style="height: 200px; width:355px;"
       height=200
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=bloxofcodes&theme=apprentice&hide_rank=true&show_icons=true" />
+      src="https://github-readme-stats.vercel.app/api?username=jv-gonzales&theme=apprentice&hide_rank=true&show_icons=true" />
   </a>
   <a href="https://github.com/bloxofcodes?tab=repositories">
     <img
